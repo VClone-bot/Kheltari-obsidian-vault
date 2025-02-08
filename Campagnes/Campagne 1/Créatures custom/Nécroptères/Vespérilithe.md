@@ -6,4 +6,4 @@ Les Vespériliths sont des [[Nécroptères]] qui ressemblent à de grandes guêp
 
 Leurs grandes ailes bleues foncées sont capables de s'adapter aux courants d'énergie magique afin de se déplacer plus rapidement.
 
-![[Pasted image 20250207161446.png]]
+![[Vesperilithe - Statblock.png]]
