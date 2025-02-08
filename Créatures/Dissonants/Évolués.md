@@ -1,0 +1,1 @@
+Les Dissonants Évolués sont les plus rares et les plus singuliers. Inclassables et uniques, leur puissance est sans égal. Si un Dissonant ne correspond à aucune des quatre catégories précédentes, il est alors considéré comme un Évolué.

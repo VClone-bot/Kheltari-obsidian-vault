@@ -1,0 +1,6 @@
+- *Hmar* pour "imbécile" ou "idiot"
+- *Jahil* pour "ignare"
+- *Ayreh Fek* "va te faire voir"
+- *Lashkra* "non merci"
+- *Suaban* pour désigner les [[Dissonants]]
+- *Jalsu Tuqina* "à la première lueur"

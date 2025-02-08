@@ -1,0 +1,1 @@
+Reconnus pour leur puissance et leur résilience exceptionnelles, les Graximords, Dissonants de la première catégorie, sont célèbres pour leur capacité à résister à des impacts capables de pulvériser des montagnes.

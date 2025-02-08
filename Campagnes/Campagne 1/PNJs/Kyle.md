@@ -1,0 +1,1 @@
+Un Fennec Awakened Animal, taille Small. Très curieux et gentil, un bon combattant.

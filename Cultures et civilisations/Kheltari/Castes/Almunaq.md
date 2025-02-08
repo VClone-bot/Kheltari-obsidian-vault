@@ -1,0 +1,2 @@
+- Ils sont chargés d'assister les chasseurs en passant derrière eux pour récupérer les carcasses d'animaux, les artefacts magiques des ruines ou simplement pour porter leur équipement. 
+- Les membres de cette caste cherchent généralement à évoluer vers la caste des chasseurs, mais pour cela ils doivent prouver leur valeur à travers leurs actions, ainsi qu'un rite initiatique périlleux dans les dunes.

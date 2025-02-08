@@ -1,0 +1,3 @@
+Le pain des lamentations est un rituel dans lequel les [[Sayaad]] ou les [[Almunaq]] qui partent en voyage vont, en présence d'une apprentie [[Tulaab]] "charger" un morceau de nourriture de leurs pensées négatives, leurs regrets, leurs peurs et leurs ressentiment. 
+
+Après quoi, la [[Tulaab]] consomme cette nourriture afin d'absorber la négativité et de permettre au récipient du rituel d'aborder son voyage avec sérénité et concentration.

@@ -1,0 +1,1 @@
+- Cette caste regroupe tous les membres de la tribu Kheltari qui ne font pas partis d'une autre caste.

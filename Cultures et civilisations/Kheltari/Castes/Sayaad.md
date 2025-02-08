@@ -1,0 +1,4 @@
+- Ils sont considérés comme directement en dessous de celle des sages femmes.
+- Elle est composée des meilleurs guerriers et guerrières de la tribu. 
+- Ses membres sont chargés de mener de front les missions extérieures aux zones contrôlées par la tribu, comme récupérer de la nourriture, explorer des ruines ou affronter des créatures dangereuses qui s'approcheraient trop près de la tribu. 
+- Sous certaines conditions, en particulier en cas de danger imminent, ils peuvent être considérés comme ayant plus d'autorité que les [[Alkahi]].

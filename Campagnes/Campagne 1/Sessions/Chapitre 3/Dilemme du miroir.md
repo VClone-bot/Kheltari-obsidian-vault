@@ -1,0 +1,7 @@
+Dans le scintillement fragile du fragment de miroir, <Personnage> contemple son propre reflet, une vision familière mais étrangement amplifiée, comme si le morceau d’argent poli révélait une part de lui-même qu’il n’avait jamais osé regarder en face. Une aura vibrante, presque palpable, émane de l’éclat du verre brisé, lui murmurant des secrets d’un pouvoir ancien et insondable. Il comprend d’instinct que cet artefact n’est pas seulement précieux – il est unique, chargé d’une magie brute et primordiale.
+
+Et pourtant, cette découverte est une solitude : il est le seul à avoir croisé le regard du fragment, le seul à ressentir le poids de ce destin. Ses pensées vacillent entre fascination et crainte, entre ambition et prudence. Ce fragment, une pièce du puzzle d’un miroir légendaire, pourrait invoquer une bête d’une puissance terrifiante – mais à quel prix ?
+
+Les choix sont multiples, mais chacun semble porter une part d’ombre. Doit-il garder ce trésor pour lui-même, cherchant à comprendre ses mystères ? Le cacher pour que personne ne puisse en abuser ? Ou bien oser reconstituer le tout et défier les cieux eux-mêmes ?
+
+Une seule question demeure : que fera-t-il avec ce fragment aux promesses dangereuses ?

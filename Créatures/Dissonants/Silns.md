@@ -1,0 +1,1 @@
+Discrétion, ruse et intelligence caractérisent les Silns. Gardez toujours un œil sur vos arrières, car ils en feront de même.

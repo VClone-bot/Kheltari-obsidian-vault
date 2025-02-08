@@ -1,0 +1,1 @@
+Agiles et insaisissables, les Escans sont des opportunistes qui guettent leurs proies, choisissant le moment où elles sont le plus vulnérables pour frapper. Préférant les tactiques subtiles aux confrontations directes, ils recourent à des méthodes plus insidieuses pour chasser.

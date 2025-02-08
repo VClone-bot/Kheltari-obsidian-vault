@@ -1,0 +1,1 @@
+Les Métholidons se distinguent comme les plus redoutables parmi les Dissonants, incarnant des prédateurs d'une efficacité redoutable et d'une violence inégalée.

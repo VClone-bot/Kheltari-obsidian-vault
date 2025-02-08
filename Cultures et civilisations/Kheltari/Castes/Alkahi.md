@@ -1,0 +1,3 @@
+- Cette caste entièrement composée de femmes, et elle détient l'autorité au sein des Kheltari.
+- Elles sont vénérées comme des oracles divines, et se tiennent en communication avec des esprits errants du désert. Les femmes ayant des aptitudes magiques sont donc considérées comme de plus haut rang que les autres. 
+- Les sages de la tribu sont choisies dès l'enfance selon leurs aptitudes magiques, et subissent un entraînement rigoureux pour leur permettre d'assurer leurs responsabilités de dirigeantes plus tard. **Ces sages femmes en apprentissage font parties de la caste des [[Tulaab]].**

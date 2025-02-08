@@ -1,0 +1,2 @@
+- Cette caste est composée de jeunes femmes de la tribu Kheltari possédant des aptitudes magiques qui pourraient leur permettre de devenir [[Alkahi]] plus tard.
+- Les Tulaab portent en permanence un bandeau noir qui masque leurs yeux, afin de leur apprendre à se fier à leur intuition et à leurs pouvoirs pour se repérer.

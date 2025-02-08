@@ -1,0 +1,1 @@
+Périodes de très grande accalmie dans le désert du [[Voile de Cendre]], précédant généralement une catastrophe liée à une anomalie.
