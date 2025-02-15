@@ -25,16 +25,15 @@ Description sommaire des personnages 1 à 1, à commencer par celui qui est dés
 
 * Challenge au choix (+50% XP): 
 	1. **Tueur à gages**: Sukma ne doit pas être éliminé avant Gum, Gum ne doit pas être éliminé avant Rax.
-	2. **Imparité**: Les joueurs ne peuvent utiliser des actions ayant le trait "Attack" que les tours impairs.
-	3. **Pacifiste**: Les joueurs doivent gagner la rencontre sans jamais cibler d'ennemis, ni toucher d'ennemis avec des effets de zone.
+	2. **Pacifiste**: Les joueurs doivent gagner la rencontre sans jamais infliger de dégâts.
 
-Pour gagner il faut récupérer le sac de l'autre équipe, et le verser dans le sac son équipe.
+Pour gagner il faut récupérer le sac de sable de l'autre équipe, et le verser dans le sac son équipe.
 
 Ne pas préciser aux joueurs au début: il s'agit d'un combat d'entraînement. Toutes les attaques sont non-léthales par défaut donc ils peuvent perdre sans risque de mourir.
 
 Après le combat [[Naos]] leur somme de se relever, puis les emmène se reposer au village pour se préparer aux épreuves qui commenceront demain. 
 
-Dans la tente sont réunis tous les futurs [[Almunaq]]. Les traqueurs qui seront leurs chefs ensuite leurs apportent les [[Repas des sacrifiés]].
+Dans la tente sont réunis tous les futurs [[Almunaq]]. Des Sayaad entrent dans la tente pour leur préparer un [[Pain des lamentations]], ensuite les traqueurs qui seront leurs chefs une fois le rite passé leurs apportent leur [[Repas des sacrifiés]].
 
 > Donner une occasion aux joueurs d'expliquer à tour de rôle en quoi consiste leur [[Repas des sacrifiés]].
 

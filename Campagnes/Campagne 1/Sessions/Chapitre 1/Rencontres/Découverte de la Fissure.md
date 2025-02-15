@@ -14,4 +14,3 @@ Ils n'apprennent en revanche pas de nouveaux sorts et ne peuvent pas apprendre d
 #### Créatures
 - [[Vespérilithe]]
 - [[Gözlemjilash|Observateurs]]
-- 

@@ -11,4 +11,6 @@ Idées préliminaires:
 #### Introduction
 Les joueurs ont récupérés la boîte suite à l'[[Épreuve de Résilience]], ils doivent maintenant survivre dans le désert le temps qu'elle s'ouvre.
 
+Gérer ça en mode quelques jets + downtime, puis quelques événements notables.
+
 - [[Découverte de la Fissure]]
