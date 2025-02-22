@@ -5,8 +5,8 @@ Les sorts bénéficient du même traitement que les attaques martiales à projec
 #### Combat
 - Musique: https://www.youtube.com/watch?v=-7ZXDBm_oXM&list=PLKoiwkiLkC2ovPzxaz3MJBDfHMqkgL5IF
 - Combattants (Extreme+):
-	- 30 [Vélociraptors (Weak)](https://2e.aonprd.com/Monsters.aspx?ID=2915&Weak=true&NoRedirect=1)
-- Challenge imposé (+50% XP):
-	1. **Mains propres**: Les ennemis ne peuvent être achevés qu'avec des dégâts indirects.
+	- 30 [Vélociraptors (Weak)](https://2e.aonprd.com/Monsters.aspx?ID=2915&Weak=true&NoRedirect=1), un d'entre eux est Slowed 1
+- Challenge (+50% XP et +Trésor: [Wand](https://2e.aonprd.com/Equipment.aspx?ID=2286) + [Fortifying Pebble](https://2e.aonprd.com/Equipment.aspx?ID=522) + 3 [Feather Step Stone](https://2e.aonprd.com/Equipment.aspx?ID=2976) + [Blast Boots (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=1104)):
+	1. **Mains propres**: Les ennemis ne peuvent pas être achevés en leur infligeant des dégâts directs.
 #### Spécificité de la map
 - Les cristaux bleus rendent confus après une trop longue exposition (3 rounds)

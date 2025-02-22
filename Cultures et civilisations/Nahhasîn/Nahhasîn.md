@@ -1,0 +1,12 @@
+Les Nahhasîn qui signifie "Ceux du cuivre" est une tribu de cannibales errant dans le désert du [[Voile de Cendre]], ils y ont plusieurs villages bien cachés. Leur nom vient en référence à la fois à leurs armes qui sont parfois composées de cuivre, ainsi qu'à leur goût pour le sang humain en particulier. Leurs armes sont souvent teintes de verte dûes à l'oxidation du cuivre provoquée par le contact répété avec les différentes liquides présents dans le sang de leurs victimes.
+### Culture et mode de vie
+#### Cannibales
+* Les Nahhasîn dévorent le cadavre de leurs ennemis et de leurs alliés morts, ils vont souvent laisser les victimes cuire à petit feu durant de longues heures, en leur coupant la langue afin d'éviter que leurs cris risquent d'alerter la faune locale.
+* Ce mode de vie n'est pas simplement lié à un besoin de nourriture ou à une perversité morbide, mais à plusieurs mutations génétiques survenues après le [[Cataclysme]], qui leur impose de vivre avec de nombreuses déficiences immunitaires qu'ils peuvent compenser en absorbant le sang et la chair d'autres êtres vivants. Ils sont donc généralement attirés par les créatures plus grosses, afin de pouvoir plus longtemps assouvir leurs besoins.
+* Avec le temps, ils ont finis par associer cela à leur spiritualité, en créant des rituels liés à la consomation de chair d'humanoïdes.
+#### Absence de structure sociale
+* Cette tribu n'a pas de réel système de rang social, le leader va être l'individu charismatique du moment, avec certains d'entre eux qui sont parfois particulièrement reconnus et respectés pour leurs prouesses spirituelles ou au combat.
+* Les comptes peuvent parfois être réglés par la violence, engageant généralement un combat à mort entre les divers opposants, à la fin duquel le ou les vainqueurs vont dévorer le cadavre des perdants pour récupérer leur force vitale.
+#### Spiritualité et croyances
+* Les meurtres cannibales des Nahhasîn sont dédiés à [[Al-Nahhas, le Dieu de la rouille]], un esprit qu'ils entendent murmurer dans le vent du désert. Il s'agit en réalité d'un puissant Djinn venu du plan élémentaire du métal.
+* Les rituels sacrificiels qu'ils effectuent ont un effet concret sur leur armement, rendant leurs armes plus tranchantes et efficaces grâce aux bénédiction d'[[Al-Nahhas]].

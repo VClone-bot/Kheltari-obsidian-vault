@@ -45,12 +45,15 @@ Chaque jour où ils chercheront le rocher, les joueurs feront face à une nouvel
 4. **10 de pique** [[Attaque de Vélociraptors]]
 5. **Valet de carreau** [[Seul survivant]]
 6. **2 de carreau** Journée calme
-Rajouter au deck à partir du jour 4
-7. **7 de trèfle** [[Oasis maudite]]
-8. **As de cœur** [[Anomalie temporelle]]
-#### Routes alternatives
+**Rajouter au deck à partir du jour 4**
+1. **7 de trèfle** [[Oasis maudite]]
+2. **As de cœur** [[Anomalie temporelle]]
+**Routes alternatives sur un bon jet**
 Sur de bons jets d'orientation, les joueurs débloquent des routes alternatives qu'ils pourront choisir de prendre. La route alternative sera choisie aléatoirement et au bon vouloir du MJ.
 1. [[Les Caravanes Égarées]]
+**Routes alternatives si perdus**
+1. [[Cannibales !]]
+
 #### Effets Météo
 2. **Soleil brûlant**
 	1. 1d6 dégâts de feu qui réduisent les HP max (cumulables)

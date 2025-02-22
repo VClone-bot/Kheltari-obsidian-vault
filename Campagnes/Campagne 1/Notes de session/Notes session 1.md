@@ -10,3 +10,5 @@ Repas des sacrifiés:
 - Repas sobre pour Bouragg
 
 Quelques os, des fourrures, des pierres à tailler pour Bouragg
+
+500 XP en tout sur la session

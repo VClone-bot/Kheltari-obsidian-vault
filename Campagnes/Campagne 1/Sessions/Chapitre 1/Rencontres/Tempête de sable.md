@@ -12,11 +12,11 @@ Une forte tempête de sable au loin se dirige vers les joueurs, elle les atteind
 - S'ils tentent d'utiliser de la magie, ils doivent effectuer un flat check DC 10 ou subir des décharges électro-arcaniques produites par la tempête qui infligent 1d12 dégâts de force sur une basic Reflex save.
 - S'ils tentent d'utiliser un objet, ils doivent effectuer un jet de sauvegarde de Fortitude DC 5.
 #### Obstacles
-- Esprits dans la tempête qui entrent en contact
+- Esprits dans la tempête qui tentent d'assaillir l'esprit des joueurs
 - Un tourbillon localisé qui tente d'emporter un joueur
 - Des crevasses
 - Le vent emporte le sablier ou perce le sac de vivres
-- Des plantes et autres débris qui viennent percuter les joueurs
+- Des plantes et autres gros débris qui viennent percuter les joueurs, voir des armes
 #### Aides potentielles
 - Des traces de créatures ayant évoluées pour contrer ces tempêtes de sable et qui suivent généralement les trajets où le vent oppose la moindre résistance
 - Autre groupe
