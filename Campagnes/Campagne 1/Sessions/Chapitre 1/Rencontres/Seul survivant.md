@@ -9,5 +9,3 @@ Caïman est blessé quand ils arrivent, il ne lui reste que 3 spell slots de lvl
 - Challenge au choix (+100% XP):
 	- **Blitzkrieg** Quand un ennemi perd des PV, il doit être achevé avant le début de son tour.
 	- **Intouchable** Ne pas perdre le moindre point de vie du combat.
-
-

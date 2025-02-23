@@ -3,7 +3,7 @@ Après une journée sans événements, les joueurs montent le camp pour passer l
 #### Combat
 - Musique: https://www.youtube.com/watch?v=-7ZXDBm_oXM&list=PLKoiwkiLkC2ovPzxaz3MJBDfHMqkgL5IF
 - Combattants (Low):
-	- 1 [Basilisk lvl 3]([https://monster.pf2.tools/v/25YytrvD](https://monster.pf2.tools/v/25YytrvD))
+	- 1 [Basilisk lvl 3](https://monster.pf2.tools/v/25YytrvD)
 - Challenge au choix (+Trésor):
 	1. **Hardi**: Les joueurs doivent finir leurs tours dans la Reach d'au moins un ennemi.
 	2. **Regard Intense**: Au moins un joueur doit finir le combat complètement pétrifié par le regard du Basilisk.

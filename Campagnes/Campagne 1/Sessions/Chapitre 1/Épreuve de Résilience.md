@@ -30,12 +30,12 @@ Ces anecdotes n'auront pas d'influence directe sur le jeu, elles ne serviront qu
 6. Une zone étrange, qui semble fortement assombrie comparée au reste du paysage, mais comme piégée dans une bulle avec un halo extrêmement brillant, presque aveuglant sur sur la périphérie. Des particules de sable dansent en suspension, semblant être attirés vers un point précis. Les nuages dans le ciel se déforment et semblent tirés vers le bas, jusqu'à former une colonne descendante inquiétante qui relie le ciel à la terre. Les objets par delà la bulle semblent être étirés. Des petites silhouettes rougeâtres peuvent être observées à l'intérieur de l'anomalie en y regardant bien.
 #### Modificateur d'orientation
 Roll 1d6
-7. Le soleil prend un angle particulier par rapport au sable qui éblouit intensément les joueurs, ce qui augmente les DC liés à la vue de 5. Chaque fois qu'un joueur effectue une action qui requiert la vue, il doit réussir un jet de sauvegarde de Fortitude DC standard pour son niveau ou être Ébloui sur un fail/Aveuglé sur un crit fail.
-8. Aucun modificateur.
-9. Les joueurs traversent des dunes particulièrement hautes, ce qui les fatigue particulièrement vite et bloque régulièrement leur ligne de vue, ils ont besoin d'un point supplémentaire pour réussir leur orientation pour la journée.
-10. Les joueurs passent à travers une légère tempête de poussière. Ils sont Deafened et les DC liés à la vue sont augmentés de 5. Effet météo -> Tempête de poussière.
-11. Aucun modificateur.
-12. La journée est claire, et la géographie optimale pour voir au plus loin. Le DC pour s'orienter est réduit de 5.
+1. Le soleil prend un angle particulier par rapport au sable qui éblouit intensément les joueurs, ce qui augmente les DC liés à la vue de 5. Chaque fois qu'un joueur effectue une action qui requiert la vue, il doit réussir un jet de sauvegarde de Fortitude DC standard pour son niveau ou être Ébloui sur un fail/Aveuglé sur un crit fail.
+2. Aucun modificateur.
+3. Les joueurs traversent des dunes particulièrement hautes, ce qui les fatigue particulièrement vite et bloque régulièrement leur ligne de vue, ils ont besoin d'un point supplémentaire pour réussir leur orientation pour la journée.
+4. Les joueurs passent à travers une légère tempête de poussière. Ils sont Deafened et les DC liés à la vue sont augmentés de 5. Effet météo -> Tempête de poussière.
+5. Aucun modificateur.
+6. La journée est claire, et la géographie optimale pour voir au plus loin. Le DC pour s'orienter est réduit de 5.
 #### Rencontres 
 Chaque jour où ils chercheront le rocher, les joueurs feront face à une nouvelle rencontre qui peut les aider ou les freiner selon leurs choix et leurs dés. La liste des rencontres est la suivante:
 
