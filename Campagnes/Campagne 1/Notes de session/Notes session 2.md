@@ -1,5 +1,3 @@
-Ils ont tué l'aloe vera -> malédiction naturelle
-
 175 XP
 Perception:
 - Bouragg +7
