@@ -24,7 +24,7 @@ Il y a également des combats:
 - [2x Coil Shadow](https://monster.pf2.tools/v/wd3D5B6t) Ne jamais subir la capacité spéciale de ces monstres + de 2 tours de suite ou Ne pas infliger de dégâts aux alliés (3 Spider Venom).
 - [1x Skeletal Soldier](https://2e.aonprd.com/Monsters.aspx?ID=1900) Pas de challenge vu la difficulté.
 - [2x Gray Ooze](https://2e.aonprd.com/Monsters.aspx?ID=753&NoRedirect=1) Aucun objet ne doit être détruit durant le combat (+50% XP) ou Exactement un personnage doit finir au corps à corps des ennemis chaque tour, et jamais le même 2 tours d'affilés. (+50% XP et un butin supplémentaire).
-- [1x Cairn Wight](https://2e.aonprd.com/Monsters.aspx?ID=859) + [3x Wight (Weak)](https://2e.aonprd.com/Monsters.aspx?ID=3239&Weak=true&NoRedirect=1) + [1x Wight](https://2e.aonprd.com/Monsters.aspx?ID=3239) Au moins un personnage doit finir le combat avec une condition à 4 (+150% XP) ou Tous les ennemis doivent être achevés avec un sort de Heal (+50% XP).
+- [1x Cairn Wight](https://2e.aonprd.com/Monsters.aspx?ID=859) + [3x Wight (Weak)](https://2e.aonprd.com/Monsters.aspx?ID=3239&Weak=true&NoRedirect=1) + [1x Wight](https://2e.aonprd.com/Monsters.aspx?ID=3239) Au moins un personnage doit finir le combat avec une condition à 4 (+150% XP) ou Tous les ennemis doivent être achevés avec un sort de Heal (+50% XP).z
 
 Salle 5 - Récompenses
 
@@ -84,3 +84,5 @@ S'ils pillent simplement le temple:
 - Steel Ingot x2
 - Jade Cat
 
+Notes libre:
+- Tué les ooze avec +50% xp et épée en acier
