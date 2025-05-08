@@ -11,7 +11,7 @@ Les joueurs devront compléter une clock à 4 points pour trouver le rocher.
 
 Les joueurs peuvent obtenir 1 point chaque jour en s'orientant. Il s'agit d'une clock à 2 points qui durera tout le long de la journée. Les joueurs devront réussir plusieurs skill checks de manière collaborative pour réussir à obtenir 1 point.
 #### Journée de voyage
-[Playlist appropriée](https://www.youtube.com/watch?v=By5kBezU_T0&list=PLKoiwkiLkC2r8CgaMw9uYjiPNpqHaMh7t)
+[Playlist appropriée](https://www.youtube.com/watch?v=By5kBezU_T0&list=PLKoiwkiLkC2r8CgaMw9uYjiPNpqHaMh7t) ou Flamenco
 Les joueurs ont 8 jours max pour arriver à la fin de l'épreuve. Au cours de chaque jour, il faudra effectuer les étapes suivantes:
 1. Tirer une carte pour une [[#Rencontre]] aléatoire.
 2. Donner une [[#Anecdote immersive]] sur le monde.

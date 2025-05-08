@@ -28,7 +28,7 @@ Il y a également des combats:
 
 Salle 5 - Récompenses
 
-Une salle qui a visiblement déjà été pillée, il y reste une boule d'énergie dorée qui a l'air de tenter de tenir des ombres à distance. Il s'agit de [8x Shadow](https://2e.aonprd.com/Monsters.aspx?ID=3186)Challenge mystère (chacun doit tuer sa propre ombre, +50% XP) 
+Une salle qui a visiblement déjà été pillée, il y reste une boule d'énergie dorée qui a l'air de tenter de tenir des ombres à distance. Il s'agit de [8x Shadow](https://2e.aonprd.com/Monsters.aspx?ID=3186)Challenge mystère (chacun doit tuer sa propre ombre, +50% XP).
 
 > **Lorsque vous posez le pied sur la dernière marche, la salle se referme dans un silence total.**
 > 
@@ -86,3 +86,4 @@ S'ils pillent simplement le temple:
 
 Notes libre:
 - Tué les ooze avec +50% xp et épée en acier
+- Perdu contre les morts-vivants
