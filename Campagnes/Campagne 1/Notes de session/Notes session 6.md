@@ -1,4 +1,3 @@
-
 Début de session: lvl 4, 255 XP
 Contexte dernière session:
 - Les joueurs ont progressé sur le parcours dans l'ancien temple
@@ -10,7 +9,7 @@ Contexte dernière session:
 [Musique](https://www.youtube.com/watch?v=J3IKi_vLtlw)
 Les morts-vivants parlent entre eux en Necril. Et l'un d'eux commence à aspirer l'énergie vitale de Bouragg.
 
-**Combat:**
+**Combat:** (400 xp)
 [8x Shadow](https://2e.aonprd.com/Monsters.aspx?ID=3186) + [1x Cairn Wight](https://2e.aonprd.com/Monsters.aspx?ID=859) + [1x Wight (Weak)](https://2e.aonprd.com/Monsters.aspx?ID=3239&Weak=true&NoRedirect=1)Challenge mystère (chacun doit tuer sa propre ombre, +50% XP) 
 
 **Boule d'énergie post-combat:**
@@ -61,6 +60,15 @@ S'ils pillent simplement le temple:
 Pour la suite repartir sur le voyage.
 
   
-
+Notes durant la session:
+- La tempête de feu énorme peut être du foreshadowing d'un truc plus tard
+- Les Kheltari peuvent être envoyés à la mort car les matriarches de la tribu ont besoin d'âmes mortes qu'elles lient, afin d'entendre les murmures du vent
+- Épreuve du sang, épreuve de moisson sautée car ça va faire redondant
+	- Ramener une créature lvl 7 minimum (son cadavre) au village
+- L'Okhmaka voudrait parler à ses maîtres
+- 655 XP
+- Ils ont tous bu l'eau cursed
+	- Undending Thirst
+- Ils vont chasser l'Affamée dans la [[Mine de Ramaal Azuln]]
 
 
