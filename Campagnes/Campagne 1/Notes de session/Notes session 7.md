@@ -1,3 +1,5 @@
+**Début de session: 335 XP**
+
 ### [[Mine de Ramaal Azuln]]
 
 **Système de tuyauterie:**
