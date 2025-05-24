@@ -1,1 +1,0 @@
-Mix de Rust Hag + Rust Montser + Rust Scarab qui peuvent drop des lingots pour réparer les armes en métal
