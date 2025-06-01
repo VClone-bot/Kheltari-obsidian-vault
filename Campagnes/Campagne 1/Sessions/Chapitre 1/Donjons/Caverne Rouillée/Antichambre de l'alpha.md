@@ -4,13 +4,14 @@ Une petite pièce dans laquelle une caractéristique particulière saute immédi
 
 Il y a également deux appareils étranges fixés sur des monticules de pierres à l'entrée de l'antichambre, qui ont la forme d'un télescope mais pas de lentille, simplement une petite ouverture qui pointe directement vers la dalle en métal. Sur chaque appareil, il y a un mécanisme qui lève un cache noir placé devant l'ouverture de l'appareil.
 
-Dans l'antichambre se trouve un monstre de rouille, beaucoup plus gros que ce qu'il ne devrait être. Il a un réceptacle contenant un rubis grossièrement taillé, qui a été soudé à son crâne.
+Dans l'antichambre se trouve un monstre de rouille, beaucoup plus gros que ce qu'il ne devrait être. Il a un réceptacle soudé à son crâne révélant un trou qui passe à travers.
 #### Créatures
 
 #### Énigme
 - **Indices**
 	- Lorsque le monstre de rouille s'approche de la dalle en métal, son réceptacle s'illumine légèrement et les appareils tremblent légèrement, lorsqu'il est sur la dalle plus fortement, et lorsque les caches des appareils sont levés encore plus fortement.
 	- Lorsque le cache d'un appareil est levé, une lueur rouge s'échappe par l'ouverture révélée.
+	- Lorsque que un cache est levé, ou les deux, le monstre semble se charger en énergie.
 - **Solution**
 	- Le monstre de rouille doit être placé sur la dalle 1 round entier.
 	- Le cache de l'appareil doit être levé pendant 1 round entier.
