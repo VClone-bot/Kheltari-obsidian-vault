@@ -1,4 +1,4 @@
-Relié au donjon [[Caverne Rouillée]]
+sqRelié au donjon [[Caverne Rouillée]]
 #### Description
 Une vasque naturelle remplie de sang, la [[Mère-Corrosion]] s'en sert pour des rituels magiques. Ce sang est issu de nombreux êtres intelligents qu'elle a vidés de leur sang pour remplir cette vasque.
 
