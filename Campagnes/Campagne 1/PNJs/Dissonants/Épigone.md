@@ -1,0 +1,3 @@
+Un [[Dissonants|Dissonant]] de la catégorie des [[Silns]]. Il a une soif inextinguible de nouvelles choses à apprendre, et il est capable d'apprendre des choses en consumant l'âme, les souvenirs, la personnalité d'autres créatures.
+
+C'est un parasite psychique qui ne tue pas mais dévore petit à petit ses hôtes, parfois contre leur volonté, parfois avec leur consentement non éclairé. Il dévore l'entièreté de leurs souvenirs, de leurs connaissances, de leur personnalité, jusqu'à ce qu'il ne reste qu'une coquille vide alimentée par des impulsions électriques. Il s'auto-construit à partir de ce qu'il perçoit et expérimente de cette manière.

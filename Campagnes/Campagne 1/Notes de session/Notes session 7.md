@@ -24,9 +24,10 @@
 
 Quel bordel full impro
 
-Ils tombent dans l'anomalie, un truc appelé l'épigone qui imite les joueurs, l'un a volé une partie de l'identité de Bouragg (sa témérité), les [[Gözlemjilash]] sont très intéressés par cela. L'anomalie renvoie les sort qui lui sont lancés en les modifiant légèrement ou totalement. Owatin reçoit un tatouage noir de l'épigone sur son torse, il a perdu son implément. 
+Ils tombent dans l'anomalie, un truc appelé l'[[Épigone]] qui imite les joueurs, l'un a volé une partie de l'identité de Bouragg (sa témérité), les [[Gözlemjilash]] sont très intéressés par cela. L'anomalie renvoie les sort qui lui sont lancés en les modifiant légèrement ou totalement. Owatin reçoit un tatouage noir de l'épigone sur son torse, il a perdu son implément. Bouragg voit son esprit fusionner avec celui du Rust Monster Alpha.
 
-L4épigone fait une vision avec une géométrie impossible.
+L'épigone fait une vision avec une géométrie impossible.
 Bouragg et Owatin contractent le tétanos
+
 ****
 

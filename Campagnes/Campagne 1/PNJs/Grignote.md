@@ -1,0 +1,3 @@
+Une T-Rex qui a subi des expériences génétiques. Son ADN a été mélangé à de l'ADN de caméléon, de mygale du désert, de pieuvre et de vautour. Ce mélange lui confère une vision exceptionnelle, la capacité de se camoufler dans tout environnement, une langue préhensile, des glandes de venin paralysant injectables par ses griffes et une capacité à se contorsionner pour mieux passer dans des endroits étroits.
+
+Elle est fidèle à [[Xari]] qui a également subi des expériences.
