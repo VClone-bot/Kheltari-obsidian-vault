@@ -1,3 +1,0 @@
-- Reprise depuis longtemps
-- Envoyer à Owatin arme qu'il fabrique avec sa corne électrique
-- Envoyer à Aza le statblock des chaînes
